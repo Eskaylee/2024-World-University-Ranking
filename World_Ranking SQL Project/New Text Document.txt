@@ -19,13 +19,3 @@ iv. Correlation Between Industry Income and Rankings
 
 4. Conclusion
 Summarize the key insights and trends found from your SQL analysis.
-
-Deadlines:
-📅 Submission Deadline:
-You have 3 days to complete the project. Please submit your SQL queries and insights by 20/10/2024 (3 days from tomorrow).
-
-📅 Meeting
-We will meet to discuss the project results and share feedback on 21/10/2024 (4th day from tomorrow).
-
-⏰ Time:
-The meeting will start at 9pm, and the link will be shared closer to the date.
