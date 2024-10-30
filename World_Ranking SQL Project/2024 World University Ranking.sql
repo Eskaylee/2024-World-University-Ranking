@@ -90,16 +90,14 @@ FROM uni_rankings2024
 GROUP BY rank_group;
 
 /*  4. Conclusion
-Summarize the key insights and trends found from your SQL analysis.
-Conclusion
 The SQL analysis of the World University Rankings dataset revealed the following key insights into factors impacting 
 global university rankings:
 
 Top Universities by Overall Score:
 The universities with the highest Overall_Score are concentrated in specific countries, with consistent representation 
-from institutions in the United States and the United Kingdom. These universities typically demonstrate strong performance
- across all metrics, indicating that balanced excellence in teaching, research, and international outlook tends to 
- correlate with top positions.
+from institutions in the United Arab Emirate, Hong Kong and the United Kingdom. These universities typically demonstrate strong performance
+across all metrics, indicating that balanced excellence in teaching, research, and international outlook tends to 
+correlate with top positions.
  
 Top Countries by Research Performance:
 Countries such as the United States, United Kingdom, and Germany rank highly in terms of average research scores, 
@@ -118,9 +116,10 @@ Correlation Between Industry Income and Rankings:
 While Industry_Income is positively correlated with better rankings, the relationship is moderate. High-ranking 
 universities often receive substantial income from industry partnerships, but this trend diminishes slightly beyond the 
 top 100 universities. This indicates that industry income contributes to institutional prestige but may not be as crucial 
-a factor as research or teaching for universities outside the top 100.
+a factor as research or teaching for universities outside the top 100. */ 
 
-In summary, this analysis underscores that top-ranking universities excel across multiple factors, with research and 
+SUMMARY 
+This analysis underscores that top-ranking universities excel across multiple factors, with research and 
 teaching quality emerging as particularly influential. Countries with strong research infrastructure and international 
 outlook also tend to have highly ranked universities, highlighting the importance of global engagement and research 
-funding in achieving high positions in the rankings. */
+funding in achieving high positions in the rankings.
