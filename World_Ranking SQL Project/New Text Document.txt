@@ -1,0 +1,31 @@
+World University Rankings Analysis
+Objective
+Analyze the World University Rankings to uncover insights into the factors that impact global university rankings, using SQL to perform data exploration and analysis.
+
+Project Steps:
+1. Database Setup
+Import the dataset into your SQL environment.
+Set up the table with appropriate columns (Rank, University, Country, Teaching, Research, etc.).
+
+2. Data Exploration Using SQL
+Explore the structure of the dataset using basic SQL queries (e.g., SELECT, COUNT(), GROUP BY, etc.).
+
+3. Analysis Questions
+
+i. Top Universities by Overall Score
+ii. Top Countries by Research Performance
+iii. Impact of International Outlook on Rankings
+iv. Correlation Between Industry Income and Rankings
+
+4. Conclusion
+Summarize the key insights and trends found from your SQL analysis.
+
+Deadlines:
+📅 Submission Deadline:
+You have 3 days to complete the project. Please submit your SQL queries and insights by 20/10/2024 (3 days from tomorrow).
+
+📅 Meeting
+We will meet to discuss the project results and share feedback on 21/10/2024 (4th day from tomorrow).
+
+⏰ Time:
+The meeting will start at 9pm, and the link will be shared closer to the date.
