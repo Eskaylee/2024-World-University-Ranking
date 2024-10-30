@@ -35,7 +35,7 @@ Top Universities by Overall Score: Find universities with the highest overall sc
 Top Countries by Research Performance: Calculate the average research score by country to identify leading nations.
 Impact of International Outlook on Rankings: Assess correlation between international outlook and rank.
 Correlation Between Industry Income and Rankings: Determine if higher industry income correlates with better rankings.
-Conclusion: Summarize insights gained from the analysis, identifying trends between scores in various metrics and ranking outcomes.
+
 
 # Results and Insights
 # Top Universities: 
